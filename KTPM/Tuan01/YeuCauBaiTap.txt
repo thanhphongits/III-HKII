@@ -1,0 +1,10 @@
+-NỘI DUNG: Sinh viên nghiên cứu Chương 1. Tổng quan về kiểm thử (tài liệu tham khảo chính).
+
+-VÍ DỤ VÀ BÀI TẬP: Giải các bài toán sau và đưa ra các bộ test để kiểm thử cho từng bài toán.
+  +Ví dụ 1: Nhập vào 3 số dương a,b,c. Hỏi a,b,c có phải là số đó 3 cạnh của một tam giác hay không ? Nếu có hãy kiểm tra xem đó là tam giác đều, vuông, cân hay tam giác thường ? Yêu cầu: Lập trình giải bài toán trên. Tìm các test case cho bài toán trên (xem chương 2 tài liệu tham khảo chính).
+  
+  +Ví dụ 2: Nhập ba số ngày, tháng, năm.  Hãy tìm ngày kế tiếp của ngày vừa nhập. Hãy tìm ngày kế trước của ngày vừa nhập (xem chương 2 tài liệu tham khảo chính).
+  
+  +Ví dụ 3:Giải phương trình dạng ax^2+bx+c=0 với a,b,c là các số thực nhập vào.
+  
+  +Ví dụ 4:Nhập vào bốn số nguyên a, b, c, d. Hỏi trong đó có bao nhiêu giá trị khác nhau ?
