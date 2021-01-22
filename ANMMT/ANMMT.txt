@@ -1,0 +1,21 @@
+================ AN NINH MẠNG MÁY TÍNH ================
+
+- Các phương pháp xác thực:
+	+ Capcha : phòng chống tấn công
+	+ Vân tay, hóc mắt, khuônmặt, ống tai, .. : không thể chối từ và không làm giảđược
+	+ OTP
+	+ Password
+	+ ...
+	
+- Các phương pháp mã hóa:
+	+ Mã hóa đối xứng
+	+ Mã hóa công 
+	+ Hàm băm
+	+ Chữ ký số, chữ kí điện tử
+	+ ...
+	
+
+Đề tài:
+
+
+Tuần 01:

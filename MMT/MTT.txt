@@ -1,1 +1,11 @@
 ================ MẠNG MÁY TÍNH ================
+
+Tuần 01:
+
+- Mạng máy tính: là tập hợp các thiết bị mạng kết nối với nhau theo một phương thức truyền dẫn nào đó nhằm trao đổi thông tin và dữ liệu.
+- Internet: gồm nhiều mạng máy tính kết nối với nhau.
+- Router: bộ phận tìm đường đi của mạng
+- Switch: chia đạng ra nhiều mạng con
+- Băng thông: khái niệm đo tốc độ kênh truyền mạng
+- Protocols : các giao thức: duyệt web, tải file, truyền dữ liệu, TCP, UDP
+- Internet standards: tập hợp các chuẩn trong internet
