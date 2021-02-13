@@ -1,1 +1,8 @@
 ================ PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG ================
+
+Tuần 01: Tổng quan về lịch sử hệ điều hành của thiết bị di động
+
+Tuần 02: Google Android
+- Android được phát triển bởi google - ban đầu của Androidy
+- Tìm hiểu về lịch sử các phiên bản của android ? https://en.wikipedia.org/wiki/Android_version_history
+- Vẽ phiên bản bản android - đoán

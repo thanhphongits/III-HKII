@@ -1,0 +1,16 @@
+- Trang hướng dẫn: https://datnt-solutions.blogspot.com/2019/08/huong-dan-tao-tai-khoan-netacad-va.html
+
+- https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer chọn sign up today! -> English
++ Rồi điền đầy đủ thông tin đăng kí -> Submit
++ Rồi nó sẽ chuyển đến trang gần giống như này: https://www.netacad.com/portal/user/1020753925/activate
++ Em chọn thêm 1 số thông tin cơ bản nữa rồi chon -> Creat Account
+
+- Một số trường hợp nó sẽ gửi mail về mail để liên kết tài khoản, thì em mở mail tra để nhấn vào link cisco để xác nhận tài khoản
+
+- Rồi quay lại trang https://www.netacad.com/courses/packet-tracer đăng nhập với tài khoản vừa tạo gồm: 
+	usermainl@gmail.com ( my.vothi.106@gmail.com )
+	passworld			( Congtua@106 )
+	
+- Tài khoản của anh:
+	thanhphongtran.it@gmail.com
+	bug!@123B

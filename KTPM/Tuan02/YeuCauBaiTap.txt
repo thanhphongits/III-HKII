@@ -1,0 +1,12 @@
+-NỘI DUNG: Sinh viên nghiên cứu Chương 3 (tài liệu tham khảo chính).
+-BÀI TẬP: 
+LẬP TRÌNH VÀ VẼ ĐỒ THỊ CHƯƠNG TRÌNH cho các bài toán sau (xem trang 71 và tham khảo trang 140,…)
+  1.Tìm giá trị lớn nhất trong ba số nguyên a,b,c
+  2.Giải phương trình bậc nhất ax+b=0 với a,b là các số thực.
+  3.Lập trình trò chơi Búa, Bao, Kéo cho 2 người chơi
+  4.Kiểm tra số nguyên dương n có phải là số nguyên tố hay không ?
+  5.Tìm ước số chung lớn nhất của hai số nguyên dương a,b.
+GIẢI và tìm các BỘ KIỂM THỬ cho các bài toán sau:
+  6.Trong mặt phẳng tọa độ OXY cho 2 đoạn thẳng AB và CD. Hãy kiểm tra hai đoạn thẳng này có cắt nhau hay không ?
+  7.Trong mặt phẳng tọa độ OXY cho tam giác ABC và đoạn thẳng MN. Hãy tính độ dài phần đoạn thẳng MN nằm trong tam giác ABC ?
+  8.Trong mặt phẳng tọa độ OXY cho tam giác ABC và một điểm M. Hãy kiểm tra xem M nằm trên cạnh, nằm trong hay nằm ngoài tam giác ABC.

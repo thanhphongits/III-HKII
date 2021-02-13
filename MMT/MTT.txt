@@ -9,3 +9,17 @@ Tuần 01:
 - Băng thông: khái niệm đo tốc độ kênh truyền mạng
 - Protocols : các giao thức: duyệt web, tải file, truyền dữ liệu, TCP, UDP
 - Internet standards: tập hợp các chuẩn trong internet
+	+ RSC: Request for comments :  http: Hypertext Transfer Protocol (HTTP) 
+	+ IETF: định nghĩa và hoàn chỉnh các giao thức
+- Các giao thức xác định định dạng, thứ tự của thông điệp được gửi và nhận giữa các thực thể mạng và các hành động được thực hiện khi truyền, nhận thông điệp.
+- Network adge: thiết bị đầu và cuối của mạng
+- Lệnh: tracert <domain> : để tra xem từ hots tra xem qua những địa chỉ trung gian nào: từ máy mình -> server domain
+- ISP : Internet Service Provider
+- Cáp đồng trục,cáp quang, cáp xoắn đôi ( UTP ( không có vỏ bọc ) STP ( có vỏ bọc ) )
+- Ethernet and Internet ?
+ => Network -> Internet ( Network adge "hosts,client, server" + Network cord (router ISP)) . Có dây, không dây và sóng điện từ .
+ 
+ 
+Tuần 02:
+ 
+ 
